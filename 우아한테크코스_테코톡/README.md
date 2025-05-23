@@ -1,4 +1,4 @@
-## 목록
+<img width="1160" alt="image" src="https://github.com/user-attachments/assets/94a8a6be-b02a-4c49-b95f-ce31516790bd" />## 목록
 
 ## 데이터베이스
 
@@ -118,7 +118,7 @@
 - [[10분 테코톡] 루키의 Servlet & Spring Web MVC](https://www.youtube.com/watch?v=h0rX720VWCg)
 - [[10분 테코톡] 🏀 에어의 Spring vs Spring Boot](https://www.youtube.com/watch?v=Y11h-NUmNXI)
 - [[10분 테코톡] 🐶 코기의 Servlet vs Spring](https://www.youtube.com/watch?v=calGCwG_B4Y)
-- [[10분 테코톡] 🧀 제리의 MVC 패턴](https://www.youtube.com/watch?v=ogaXW6KPc8I)
+- **[[10분 테코톡] 🧀 제리의 MVC 패턴](https://www.youtube.com/watch?v=ogaXW6KPc8I)**
 - [[10분 테코톡] 🍦라빈의 Spring Batch](https://www.youtube.com/watch?v=1xJU8HfBREY)
 - [[10분 테코톡] 🤔디디의 Redis](https://www.youtube.com/watch?v=Gimv7hroM8A)
 - [[10분 테코톡] 🐻작은곰의 Spring Security](https://www.youtube.com/watch?v=aEk-7RjBKwQ)
@@ -128,11 +128,11 @@
 - [[10분 테코톡] 🌻타미의 Servlet vs Spring](https://www.youtube.com/watch?v=2pBsXI01J6M)
 - [[10분 테코톡] 🐝범블비의 MVC Pattern](https://www.youtube.com/watch?v=es1ckjHOzTI)
 - [[10분 테코톡] 🐸뚱이의 AOP - Advice Target Pointcut](https://www.youtube.com/watch?v=WQR_VQnz7Yg)
-- [[10분 테코톡] 👨‍🎨규동의 Servlet & Spring](https://www.youtube.com/watch?v=cmwmamOQmPc)
+- **[[10분 테코톡] 👨‍🎨규동의 Servlet & Spring](https://www.youtube.com/watch?v=cmwmamOQmPc)**
 - [[10분 테코톡] 🙋‍♂️제이엠의 MVC](https://www.youtube.com/watch?v=nMolWzTT-dU)
 - [[10분 테코톡] 🦊닉의 Spring vs Spring Boot](https://www.youtube.com/watch?v=6h9qmKWK6Io)
 - [[10분 테코톡] 🦆러너덕의 Springboot autoConfiguration](https://www.youtube.com/watch?v=OXILjfY8edw)
-- [📝](memo/해리&션의 MVC 패턴.md) 👈 **[[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I)** 
+- **[[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I)** 
 
 ## 웹/인터넷
 
