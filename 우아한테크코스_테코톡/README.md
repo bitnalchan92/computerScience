@@ -120,7 +120,7 @@
 - [[10분 테코톡] 루키의 Servlet & Spring Web MVC](https://www.youtube.com/watch?v=h0rX720VWCg)
 - [[10분 테코톡] 🏀 에어의 Spring vs Spring Boot](https://www.youtube.com/watch?v=Y11h-NUmNXI)
 - [[10분 테코톡] 🐶 코기의 Servlet vs Spring](https://www.youtube.com/watch?v=calGCwG_B4Y)
-- **[[10분 테코톡] 🧀 제리의 MVC 패턴](https://www.youtube.com/watch?v=ogaXW6KPc8I)**
+- [📂](https://bitnalchan92.github.io/posts/10%EB%B6%84-%ED%85%8C%EC%BD%94%ED%86%A1-%EC%A0%9C%EB%A6%AC%EC%9D%98-MVC-%ED%8C%A8%ED%84%B4%EC%9D%84-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C/) 👈 **[[10분 테코톡] 🧀 제리의 MVC 패턴](https://www.youtube.com/watch?v=ogaXW6KPc8I)**
 - [[10분 테코톡] 🍦라빈의 Spring Batch](https://www.youtube.com/watch?v=1xJU8HfBREY)
 - [[10분 테코톡] 🤔디디의 Redis](https://www.youtube.com/watch?v=Gimv7hroM8A)
 - [[10분 테코톡] 🐻작은곰의 Spring Security](https://www.youtube.com/watch?v=aEk-7RjBKwQ)
@@ -130,11 +130,11 @@
 - [[10분 테코톡] 🌻타미의 Servlet vs Spring](https://www.youtube.com/watch?v=2pBsXI01J6M)
 - [[10분 테코톡] 🐝범블비의 MVC Pattern](https://www.youtube.com/watch?v=es1ckjHOzTI)
 - [[10분 테코톡] 🐸뚱이의 AOP - Advice Target Pointcut](https://www.youtube.com/watch?v=WQR_VQnz7Yg)
-- **[[10분 테코톡] 👨‍🎨규동의 Servlet & Spring](https://www.youtube.com/watch?v=cmwmamOQmPc)**
+- [📂](https://bitnalchan92.github.io/posts/10%EB%B6%84-%ED%85%8C%EC%BD%94%ED%86%A1-%EA%B7%9C%EB%8F%99%EC%9D%98-Servlet-&-Spring%EC%9D%84-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C/) 👈 **[[10분 테코톡] 👨‍🎨규동의 Servlet & Spring](https://www.youtube.com/watch?v=cmwmamOQmPc)**
 - [[10분 테코톡] 🙋‍♂️제이엠의 MVC](https://www.youtube.com/watch?v=nMolWzTT-dU)
 - [[10분 테코톡] 🦊닉의 Spring vs Spring Boot](https://www.youtube.com/watch?v=6h9qmKWK6Io)
 - [[10분 테코톡] 🦆러너덕의 Springboot autoConfiguration](https://www.youtube.com/watch?v=OXILjfY8edw)
-- **[[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I)** 
+- [📂](https://bitnalchan92.github.io/posts/10%EB%B6%84-%ED%85%8C%EC%BD%94%ED%86%A1-%ED%95%B4%EB%A6%AC&%EC%85%98%EC%9D%98-MVC-%ED%8C%A8%ED%84%B4%EC%9D%84-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C/) 👈 **[[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I)** 
 
 ## 웹/인터넷
 
