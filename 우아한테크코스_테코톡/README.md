@@ -1,4 +1,4 @@
-<img width="1160" alt="image" src="https://github.com/user-attachments/assets/94a8a6be-b02a-4c49-b95f-ce31516790bd" />## 목록
+## 목록
 
 ## 데이터베이스
 
