@@ -132,7 +132,7 @@
 - [[10분 테코톡] 🙋‍♂️제이엠의 MVC](https://www.youtube.com/watch?v=nMolWzTT-dU)
 - [[10분 테코톡] 🦊닉의 Spring vs Spring Boot](https://www.youtube.com/watch?v=6h9qmKWK6Io)
 - [[10분 테코톡] 🦆러너덕의 Springboot autoConfiguration](https://www.youtube.com/watch?v=OXILjfY8edw)
-- [[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I)
+- [📝](우아한테크코스_테코톡/memo/해리&션의 MVC 패턴.md) 👈 **[[10분 테코톡] 👩🏻‍💻👨🏻‍💻해리&션의 MVC 패턴](https://www.youtube.com/watch?v=uoVNJkyXX0I)** 
 
 ## 웹/인터넷
 
