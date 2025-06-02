@@ -4,12 +4,12 @@
 
 ## 데이터베이스
 
-- [[10분 테코톡] 에버의 Mysql 옵티마이저](https://www.youtube.com/watch?v=gcsu7ni3tBc)
+- [📂](https://bitnalchan92.github.io/posts/10%EB%B6%84-%ED%85%8C%EC%BD%94%ED%86%A1-%EC%97%90%EB%B2%84%EC%9D%98-Mysql-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%EB%A5%BC-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C/) 👈 **[[10분 테코톡] 에버의 Mysql 옵티마이저](https://www.youtube.com/watch?v=gcsu7ni3tBc)**
 - [[10분 테코톡] 리비의 DB Replication](https://www.youtube.com/watch?v=7DwxuWyCNHA)
 - [[10분 테코톡] 수야의 Multi Step Form](https://www.youtube.com/watch?v=QToJwFvj4G8)
 - [[10분 테코톡] 릴리의 JPA 연관관계 최적화](https://www.youtube.com/watch?v=Xc0t4O-TuPY)
 - [[10분 테코톡] 냥인의 InnoDB](https://www.youtube.com/watch?v=IftfkVSzOdI)
-- [[10분 테코톡] 초코칩&로키의 인덱스와 스캔 튜닝](https://www.youtube.com/watch?v=_UI8YDU_mfg)
+- [📂](https://bitnalchan92.github.io/posts/10%EB%B6%84-%ED%85%8C%EC%BD%94%ED%86%A1-%EC%B4%88%EC%BD%94%EC%B9%A9&%EB%A1%9C%ED%82%A4%EC%9D%98-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%99%80-%EC%8A%A4%EC%BA%94-%ED%8A%9C%EB%8B%9D%EC%9D%84-%EB%B3%B4%EA%B3%A0%EB%82%98%EC%84%9C/) 👈 **[[10분 테코톡] 초코칩&로키의 인덱스와 스캔 튜닝](https://www.youtube.com/watch?v=_UI8YDU_mfg)**
 - [[10분 테코톡] 켈리의 정규화](https://www.youtube.com/watch?v=mn7UTm0CbCc)
 - [[10분 테코톡] 알송의 SQLite와 Room](https://www.youtube.com/watch?v=s5PaI2wb4hM)
 - [[10분 테코톡] 산초의 영속성 컨텍스트와 EntityManager](https://www.youtube.com/watch?v=c4rDrirE7Bc)
